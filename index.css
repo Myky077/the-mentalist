@@ -93,3 +93,8 @@ img{
 .seistd {
     text-align: center;
 }
+
+footer img {
+    width: 80px;
+    height: 65px;
+}
